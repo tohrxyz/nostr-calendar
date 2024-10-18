@@ -1,6 +1,6 @@
 {
   "name": "nostr-calendar",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "scripts": {
@@ -29,5 +29,10 @@
     "@types/react-dom": "^18.3.1",
     "typescript": "^5.6.3"
   },
-  "type": "module"
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tohrxyz/nostr-calendar.git"
+  },
+  "readme": "README.md"
 }
